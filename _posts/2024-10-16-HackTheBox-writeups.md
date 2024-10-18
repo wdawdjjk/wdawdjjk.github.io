@@ -1,23 +1,15 @@
 ---
 layout: post
 author: Flick
-title: Hack The Box Writeups
+title: Iniciando.
 ---
 
-Hola soy Flick, esta vez estaremos resolviendo la máquina **Validation**, esta maquina involucra vulnerabilidades, las cuales son las siguientes:
+Hola, soy alumno de la academia **hack4u.io**, actualmente soy un aprendiz mas de S4vitar y busco crear mi primera pagina usando esta potente herramienta.
 
-* Buffer overflow
-* Cross side scripting
-* Ddos 
-* Google dorking
-* XSS 
+Futuros proyectos que tengo en mente:
 
-Iniciando con la fase de enumeración, no empezaremos con nmap si no con un script que simplifica a nmap y es mucho mejor: 
-
-```python
-#!/usr/bin/env python3 
-n = int(input(¿Qué numero crees que a salido? ))
-if n % 2 == 0:
-    raise Exception("ERROR JAJA")
-```
-
+* Resolución de maquinas.
+* Teoria del hacking.
+* Personalizar el entorno en Linux.
+* Compartir conocimientos.
+* Crear scripts de bash.

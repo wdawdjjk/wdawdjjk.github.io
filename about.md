@@ -1,6 +1,6 @@
 ---
-title: About
+title: Sobre mi
 layout: page
 ---
 
-Mi pagina en proceso esta tensada
+Esta pagina aún esta en proceso.

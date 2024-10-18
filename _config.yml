@@ -1,13 +1,13 @@
-title: Leaf Blog
+title: Flick
 iconURL: assets/default-icon.png
-theme: minima
+theme: jekyll-theme-leaf
 
 # for a clean URL
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  twitter: FlickGMD
+  github: wdawdjjk
 
 plugins:
  - jekyll-feed
